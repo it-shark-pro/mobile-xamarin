@@ -39,6 +39,11 @@
 ## Другие списки
 
 ## Сообщество и помощь
+- [Xamarin - Тостер](https://toster.ru/tag/xamarin/questions)
+- [Форум Xamarin Developers](https://forums.xamdev.ru/)
+- [Xamarin Developers - Telegram](https://t.me/xamarin_russia)
+- [Xamarin Chat - Slack](https://xamarinchat.slack.com/) [en]
+- [Xamarin Forums](https://forums.xamarin.com/) [en]
 
 ## Наши материалы
 
