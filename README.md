@@ -25,7 +25,10 @@
 > TODO
 
 ## Книги
+- [Creating Mobile Apps with Xamarin.Forms](https://developer.xamarin.com/guides/xamarin-forms/creating-mobile-apps-xamarin-forms/) :uk:
+- [Enterprise Application Patterns using Xamarin.Forms](https://developer.xamarin.com/guides/xamarin-forms/enterprise-application-patterns/) :uk:
 - [Xamarin.Forms Kickstarter](http://www.xforms-kickstarter.com/) :uk:
+- [more...](https://www.amazon.com/s/?field-keywords=Xamarin) :uk:
 
 ## Документация
 - [Руководство по программированию для Xamarin Forms](https://metanit.com/sharp/xamarin/)
