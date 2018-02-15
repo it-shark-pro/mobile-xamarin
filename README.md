@@ -8,36 +8,40 @@
 
 ## Содержание
 
-- :mortar_board: [Лекции](#Лекции)
-- :books: [Книги](#Книги)
-- :file_folder: [Документация](#Документация)
-- :page_with_curl: [Статьи](#Статьи)
-- :bookmark_tabs: [Серии статей](#Серии-статей)
-- :notes: [Подкасты](#Подкасты)
-- :movie_camera: [Скринкасты](#Скринкасты)
-- :envelope: [Дайджесты и рассылки](#Дайджесты-и-рассылки)
-- :speech_balloon: [Сообщество и помощь](#Сообщество-и-помощь)
+- [Лекции](#Лекции)
+- [Книги](#Книги)
+- [Документация](#Документация)
+- [Статьи](#Статьи)
+- [Серии статей](#Серии-статей)
+- [Подкасты](#Подкасты)
+- [Скринкасты](#Скринкасты)
+- [Дайджесты и рассылки](#Дайджесты-и-рассылки)
+- [Сообщество и помощь](#Сообщество-и-помощь)
 - [Другие списки](#Другие-списки)
 - [Наши материалы](#Наши-материалы)
 
 ## Лекции
 
+> TODO
+
 ## Книги
-* [Xamarin.Forms Kickstarter](http://www.xforms-kickstarter.com/) :uk:
+- [Xamarin.Forms Kickstarter](http://www.xforms-kickstarter.com/) :uk:
 
 ## Документация
-* [Руководство по программированию для Xamarin Forms](https://metanit.com/sharp/xamarin/)
+- [Руководство по программированию для Xamarin Forms](https://metanit.com/sharp/xamarin/)
+- [Xamarin Developer Center](https://developer.xamarin.com/) :uk:
 
 ## Статьи
-* [В помощь мобильному разработчику](https://xamdev.ru/)
-* [Хабрахабр по тегу Xamarin](https://habrahabr.ru/search/?q=xamarin)
-* [Материалы по тегу Xamarin](https://wcoder.github.io/tags/#xamarin)
+- [В помощь мобильному разработчику](https://xamdev.ru/)
+- [Хабрахабр по тегу Xamarin](https://habrahabr.ru/search/?q=xamarin)
+- [Материалы по тегу Xamarin](https://wcoder.github.io/tags/#xamarin)
+- [C# Corner: Xamarin](http://www.c-sharpcorner.com/technologies/xamarin) :uk:
 
 ## Серии статей
-* [52 Weeks of Xamarin](http://jesseliberty.com/?s=52+weeks+of+xamarin) :uk:
-* [Learning Xamarin.Forms](http://jesseliberty.com/?s=Learning+Xamarin.Forms) :uk:
-* [31 Days of Xamarin.Android](https://blog.falafel.com/31-days-of-xamarin-android/) :uk:
-* [14 Days To Building An Enterprise Quality Xamarin Forms App](http://xamarinhelp.com/14-days-to-building-an-enterprise-quality-xamarin-forms-app/) :uk:
+- [52 Weeks of Xamarin](http://jesseliberty.com/?s=52+weeks+of+xamarin) :uk:
+- [Learning Xamarin.Forms](http://jesseliberty.com/?s=Learning+Xamarin.Forms) :uk:
+- [31 Days of Xamarin.Android](https://blog.falafel.com/31-days-of-xamarin-android/) :uk:
+- [14 Days To Building An Enterprise Quality Xamarin Forms App](http://xamarinhelp.com/14-days-to-building-an-enterprise-quality-xamarin-forms-app/) :uk:
 
 ## Подкасты
 <details><summary>Gone Mobile - http://www.gonemobile.io/ :uk:</summary>
@@ -53,16 +57,17 @@
 </details>
 
 ## Скринкасты
-* [Видео курс "Что такое Xamarin.Forms"](https://itvdn.com/ru/video/xamarin)
-* [Xamarin - Youtube](https://www.youtube.com/user/XamarinVideos) :uk:
-* [Xamarin Show - Channel9](https://channel9.msdn.com/Shows/XamarinShow) :uk:
-* [Houssem Dellai - YouTube](https://www.youtube.com/channel/UCCYR9GpcE3skVnyMU8Wx1kQ) :uk:
-* [Xamarin.Android Tutorials - Joe Rock - YouTube](https://www.youtube.com/playlist?list=PLCuRg51-gw5VqYchUekCqxUS9hEZkDf6l) :uk:
+- [Видео курс "Что такое Xamarin.Forms"](https://itvdn.com/ru/video/xamarin)
+- [Xamarin - Youtube](https://www.youtube.com/user/XamarinVideos) :uk:
+- [Xamarin University - Youtube](https://www.youtube.com/channel/UCykEmj8H8O0aE6QB1965XCg/videos) :uk:
+- [Xamarin Show - Channel9](https://channel9.msdn.com/Shows/XamarinShow) :uk:
+- [Houssem Dellai - YouTube](https://www.youtube.com/channel/UCCYR9GpcE3skVnyMU8Wx1kQ) :uk:
+- [Xamarin.Android Tutorials - Joe Rock - YouTube](https://www.youtube.com/playlist?list=PLCuRg51-gw5VqYchUekCqxUS9hEZkDf6l) :uk:
 
 ## Дайджесты и рассылки
-* [Новости Xamarin - Telegram](https://t.me/xamarin_ru)
-* [Xamarin News - Telegram](https://t.me/xamarin_news) :uk:
-* [Weekly Xamarin Newsletter- The best Xamarin development links, every Friday](http://weeklyxamarin.com/) :uk:
+- [Новости Xamarin - Telegram](https://t.me/xamarin_ru)
+- [Xamarin News - Telegram](https://t.me/xamarin_news) :uk:
+- [Weekly Xamarin Newsletter- The best Xamarin development links, every Friday](http://weeklyxamarin.com/) :uk:
 
 ## Сообщество и помощь
 - [Xamarin - Тостер](https://toster.ru/tag/xamarin/questions)
@@ -72,8 +77,13 @@
 - [Xamarin Forums](https://forums.xamarin.com/) :uk:
 
 ## Другие списки
+- [awesome-xamarin](https://github.com/benoitjadinon/awesome-xamarin) :uk:
+- [awesome-xamarin-bookmarks](https://github.com/wcoder/awesome-xamarin-bookmarks)
+- [Open Source Components for Xamarin](https://github.com/xamarin/XamarinComponents) :uk:
 
 ## Наши материалы
+
+> TODO
 
 ---
 [![Лицензия Creative Commons](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/) IT Shark Community
