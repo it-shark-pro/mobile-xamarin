@@ -2,9 +2,9 @@
 
 Список ссылок на полезные, необходимые материалы и ресурсы по кроссплатформенной разработке на Xamarin.
 
-Есть полезные ссылки, которыми хотите поделиться? Есть идеи по развитию или просто хотите исправить ошибку?
+Есть полезные ссылки, которыми хотите поделиться? Есть идеи по развитию или просто хотите исправить ошибку? Нужна помощь?
 
-Вы можете [помочь сообществу](https://github.com/it-shark-pro/mobile-xamarin/issues/new)!
+Вы можете [написать нам](https://github.com/it-shark-pro/mobile-xamarin/issues/new)!
 
 ## Содержание
 
@@ -82,8 +82,7 @@
 - [Open Source Components for Xamarin](https://github.com/xamarin/XamarinComponents) :uk:
 
 ## Наши материалы
-
-> TODO
+- [Рекомендации по изучению Xamarin](/learning-path.md)
 
 ---
 [![Лицензия Creative Commons](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/) IT Shark Community
