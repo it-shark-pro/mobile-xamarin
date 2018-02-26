@@ -90,5 +90,9 @@
 ## Наши материалы
 - [Рекомендации по изучению Xamarin](/learning-path.md)
 
+
+## *
+- :uk: - Материалы на английском языке
+
 ---
 [![Лицензия Creative Commons](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/) IT Shark Community
