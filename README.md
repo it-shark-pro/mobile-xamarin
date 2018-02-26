@@ -66,6 +66,8 @@
 - [Xamarin Show - Channel9](https://channel9.msdn.com/Shows/XamarinShow) :uk:
 - [Houssem Dellai - YouTube](https://www.youtube.com/channel/UCCYR9GpcE3skVnyMU8Wx1kQ) :uk:
 - [Xamarin.Android Tutorials - Joe Rock - YouTube](https://www.youtube.com/playlist?list=PLCuRg51-gw5VqYchUekCqxUS9hEZkDf6l) :uk:
+- [Xamarin Android Tutorial - Beginners - EDMT Dev- YouTube](https://www.youtube.com/playlist?list=PLaoF-xhnnrRVglZztNl99ih76fvBOLMe8) :uk:
+- [Xamarin Android Tutorial - Advanced - EDMT Dev- YouTube](https://www.youtube.com/playlist?list=PLaoF-xhnnrRV92Y9HlqqutcwwRYm1LjP7) :uk:
 
 ## Дайджесты и рассылки
 - [Новости Xamarin - Telegram](https://t.me/xamarin_ru)
