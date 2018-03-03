@@ -73,6 +73,7 @@
 - [Новости Xamarin - Telegram](https://t.me/xamarin_ru)
 - [Xamarin News - Telegram](https://t.me/xamarin_news) :uk:
 - [Weekly Xamarin Newsletter- The best Xamarin development links, every Friday](http://weeklyxamarin.com/) :uk:
+- [Еженедельный дайджест для мобильных разработчиков - AppTractor](https://apptractor.ru/rassyilka-apptractor)
 
 ## Сообщество и помощь
 - [Xamarin - Тостер](https://toster.ru/tag/xamarin/questions)
