@@ -23,6 +23,8 @@
 ## Лекции
 
 - [Xamarin для начинающих](https://mva.microsoft.com/ru/training-courses/xamarin--16182?l=fPHWqptJC_5705846048)
+- [Xamarin University Free Lectures](https://university.xamarin.com/lecturesmenu) :uk:
+- [Xamarin University - Self-Guided Learning](https://university.xamarin.com/classes/track/self-guided) :uk: :moneybag:
 - [Xamarin Essential Training](https://www.linkedin.com/learning/xamarin-essential-training) :uk: :moneybag:
 
 ## Книги
