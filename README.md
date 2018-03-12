@@ -22,7 +22,8 @@
 
 ## Лекции
 
-> TODO
+- [Xamarin для начинающих](https://mva.microsoft.com/ru/training-courses/xamarin--16182?l=fPHWqptJC_5705846048)
+- [Xamarin Essential Training](https://www.linkedin.com/learning/xamarin-essential-training) :uk: :moneybag:
 
 ## Книги
 - [Creating Mobile Apps with Xamarin.Forms](https://developer.xamarin.com/guides/xamarin-forms/creating-mobile-apps-xamarin-forms/) :uk:
@@ -95,6 +96,7 @@
 
 #### Обозначения
 - :uk: - Материалы на английском языке
+- :moneybag: - Может содержать платный контент
 
 ---
 [![Лицензия Creative Commons](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/) IT Shark Community
