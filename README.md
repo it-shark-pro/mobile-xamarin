@@ -34,7 +34,7 @@
 - [more...](https://www.amazon.com/s/?field-keywords=Xamarin) :uk:
 
 ## Документация
-- [Руководство по программированию для Xamarin Forms](https://metanit.com/sharp/xamarin/)
+- [Документация по Xamarin](https://docs.microsoft.com/ru-ru/xamarin/)
 - [Xamarin Developer Center](https://developer.xamarin.com/) :uk:
 
 ## Статьи
