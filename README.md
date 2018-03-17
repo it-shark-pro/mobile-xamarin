@@ -82,7 +82,9 @@
 - [Xamarin - Тостер](https://toster.ru/tag/xamarin/questions)
 - [Форум Xamarin Developers](https://forums.xamdev.ru/)
 - [Xamarin - Вконтакте](https://vk.com/xamarin)
+- [Xamarin Developers - Вконтакте](https://vk.com/xamarin_developers)
 - [Xamarin Developers - Telegram](https://t.me/xamarin_russia)
+- [Xamarin Developers - Facebook](https://www.facebook.com/xamdev/)
 - [Xamarin Chat - Slack](https://xamarinchat.slack.com/) :uk:
 - [Xamarin Forums](https://forums.xamarin.com/) :uk:
 
