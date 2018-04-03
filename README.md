@@ -6,6 +6,8 @@
 
 Вы можете [написать нам](https://github.com/it-shark-pro/mobile-xamarin/issues/new)!
 
+![image](https://i.ytimg.com/vi/93ZU6j59wL4/maxresdefault.jpg)
+
 ## Содержание
 
 - [Лекции](#Лекции)
