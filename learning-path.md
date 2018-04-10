@@ -11,6 +11,7 @@
 ## Novice
 - [ ] Languages
     - [ ] C#
+        - [ ] [C# In-Browser Tutorial](https://www.microsoft.com/net/tutorials/csharp/getting-started)
         - [ ] [A Tour of the C# Language](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
 - [ ] [Introduction to Mobile Development](https://docs.microsoft.com/en-us/xamarin/cross-platform/get-started/introduction-to-mobile-development)
 - [ ] Xamarin.Android
