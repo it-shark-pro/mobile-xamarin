@@ -12,7 +12,7 @@
 - [ ] Languages
     - [ ] C#
         - [ ] [C# In-Browser Tutorial](https://www.microsoft.com/net/tutorials/csharp/getting-started)
-        - [ ] [A Tour of the C# Language](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
+        - [ ] [C# Guide](https://docs.microsoft.com/ru-ru/dotnet/csharp/)
 - [ ] [Introduction to Mobile Development](https://docs.microsoft.com/en-us/xamarin/cross-platform/get-started/introduction-to-mobile-development)
 - [ ] Xamarin.Android
     - [ ] [Getting Started Series](https://docs.microsoft.com/en-us/xamarin/android/get-started/index)
