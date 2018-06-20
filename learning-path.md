@@ -41,6 +41,8 @@
         - [ ] [Delegates & events](https://docs.microsoft.com/en-us/dotnet/csharp/delegates-events)
         - [ ] [Asynchronous programming](https://docs.microsoft.com/en-us/dotnet/csharp/async)
         - [ ] [Language Integrated Query (LINQ)](https://docs.microsoft.com/en-us/dotnet/csharp/linq/)
+        - [ ] [Lambda expressions](https://docs.microsoft.com/ru-ru/dotnet/csharp/lambda-expressions)
+        - [ ] [C# Guide](https://docs.microsoft.com/ru-ru/dotnet/csharp/index)
 - [ ] [Building Cross Platform Mobile Apps](https://docs.microsoft.com/en-us/xamarin/cross-platform/app-fundamentals/building-cross-platform-applications/index)
 - [ ] [Sharing Code Options](https://docs.microsoft.com/en-us/xamarin/cross-platform/app-fundamentals/code-sharing)
 - [ ] [.NET Standard](https://docs.microsoft.com/en-us/xamarin/cross-platform/app-fundamentals/net-standard?tabs=vswin)
@@ -60,7 +62,13 @@
     - [ ] [iOS Security and Privacy Features](https://docs.microsoft.com/en-us/xamarin/ios/app-fundamentals/security-privacy?tabs=vswin)
 
 ## Advanced
-
+- [ ] Languages
+    - [ ] C#
+        - [ ] [Asynchronous programming](https://docs.microsoft.com/ru-ru/dotnet/csharp/programming-guide/concepts/async/index)
+        - [ ] [C# Guide](https://docs.microsoft.com/ru-ru/dotnet/csharp/index)
+- [ ] Memory management
+    - [ ] [Garbage collection](https://docs.microsoft.com/ru-ru/dotnet/standard/garbage-collection/)
+    - [ ] [Cleaning Up Unmanaged Resources](https://docs.microsoft.com/ru-ru/dotnet/standard/garbage-collection/unmanaged)
 - [ ] Preparing for Publishing
 - [ ] Xamarin.Android
     - [ ] [Notifications](https://docs.microsoft.com/en-us/xamarin/android/app-fundamentals/notifications/)
