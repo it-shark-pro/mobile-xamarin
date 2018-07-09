@@ -94,6 +94,7 @@
 - [awesome-xamarin](https://github.com/benoitjadinon/awesome-xamarin) :uk:
 - [awesome-xamarin-bookmarks](https://github.com/wcoder/awesome-xamarin-bookmarks)
 - [Open Source Components for Xamarin](https://github.com/xamarin/XamarinComponents) :uk:
+- [Open Source Xamarin Apps](https://github.com/wcoder/open-source-xamarin-apps) :uk:
 
 ## Наши материалы
 - [Рекомендации по изучению Xamarin](/learning-path.md)
